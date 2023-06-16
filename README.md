@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Profile Banner](https://github.com/wilfredcloud/wilfredcloud/assets/111436934/43b77961-13c5-4017-a416-90073b66db2a)
+
+
 <!--
 **wilfredcloud/wilfredcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

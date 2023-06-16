@@ -2,7 +2,7 @@
 
 ## 👋 Hi there 
 
-I am a passionate full-stack developer with expertise in building web applications using various technologies. With a strong foundation in TypeScript, JavaScript, ReactJs and Next.js, I specialize in creating robust and scalable front-end experiences. I also have experience working with NodeJs, PHP and Python, enabling me to develop powerful back-end functionalities.
+I am a passionate full-stack developer with expertise in building web applications using various technologies. With a strong foundation in TypeScript, JavaScript, ReactJs and Next.js, I specialize in creating robust and scalable front-end experiences. I also have experience working with NodeJs,ExpressJs PHP and Python enabling me to develop powerful back-end functionalities.
 
 I enjoy solving complex problems and building elegant solutions that provide seamless user experiences. My expertise spans from designing responsive user interfaces to developing efficient server-side logic.
 

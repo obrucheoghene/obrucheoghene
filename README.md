@@ -14,18 +14,26 @@ I am passionate about solving and providing efficient programming solutions to p
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
+
+<a href="https://github.com/wilfredcloud">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfredcloud&show_icons=true&theme=dracula&hide_border=true" alt="Obruche's github stats" />
+</a>
+
+<a href="https://github.com/wilfredcloud">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredcloud&layout=donut&theme=dracula&hide_border=true" alt="Obruche's Top lans" />
+</a>
+
+
+
 <!-- ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js) -->
 <!-- ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational) -->
 <!-- ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack) -->
 <!-- ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass) -->
 
+<!--[![Obruche's github stats](https://github-readme-stats.vercel.app/api?username=wilfredcloud&theme=dracula)](https://github.com/wilfredcloud/github-readme-stats) -->
 
-## 📊 Statistics
-[![Obruche's github stats](https://github-readme-stats.vercel.app/api?username=wilfredcloud&theme=dracula)](https://github.com/wilfredcloud/github-readme-stats)
+<!-- [![Obruche's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredcloud&layout=donut)](https://github.com/wilfredcloud/github-readme-stats) -->
 
-
-## 💻 Top Languages
-[![Obruche's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredcloud&layout=donut)](https://github.com/wilfredcloud/github-readme-stats)
 
 <!--
 **wilfredcloud/wilfredcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

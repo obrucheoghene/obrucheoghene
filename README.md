@@ -2,10 +2,9 @@
 
 ## 👋 Hi there 
 
-I am a passionate full-stack developer with 4 years experience in building web applications using cutting edge technologies. With a strong foundation in TypeScript, JavaScript, ReactJs and Next.js, I specialize in creating robust and scalable front-end experiences. I also have experience working with NodeJs,ExpressJs PHP and Python enabling me to develop powerful back-end functionalities.
+I am a seasoned full-stack engineer with 4 years of hands-on experience developing and deploying robust applications using cutting-edge technologies. My expertise spans a wide range of languages and frameworks, including JavaScript, TypeScript, React, Next.js, Node.js, PHP, Python, and both SQL and NoSQL databases.
 
-I enjoy solving complex problems and building elegant solutions that provide seamless user experiences. My expertise spans from designing responsive user interfaces to developing efficient server-side logic.
-
+I am passionate about solving and providing efficient programming solutions to problems.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)

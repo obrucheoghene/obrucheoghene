@@ -20,7 +20,7 @@ I am passionate about solving and providing efficient programming solutions to p
 </a>
 
 <a href="https://github.com/wilfredcloud">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredcloud&layout=donut&theme=dracula&hide_border=true" alt="Obruche's Top lans" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredcloud&layout=compact&theme=dracula&hide_border=true" alt="Obruche's Top lans" />
 </a>
 
 

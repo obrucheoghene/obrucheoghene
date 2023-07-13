@@ -11,6 +11,7 @@ I' currently building an ecommerce application and making contributions to open 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=nextjs)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)

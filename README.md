@@ -6,6 +6,8 @@ I am a full-stack engineer with 4 years of hands-on experience developing and de
 
 I am passionate about solving and providing efficient programming solutions to problems.
 
+I am currently building an ecommerce application
+
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)

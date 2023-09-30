@@ -6,7 +6,7 @@ I am a full-stack engineer with extensive hands-on experience developing and dep
 
 I am passionate about solving and providing efficient programming solutions to problems.
 
-I'm currently building an WebRTC application and making contributions to open source projects
+I'm currently building a Real Time Communication application using WebRTC and making contributions to open source projects
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)

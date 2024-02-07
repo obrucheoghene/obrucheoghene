@@ -19,11 +19,11 @@ I'm currently building a Real Time Communication application using WebRTC and ma
 
 
 <a href="https://github.com/wilfredcloud">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfredcloud&show_icons=true&theme=dracula&hide_border=true" alt="Obruche's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=obrucheoghene&show_icons=true&theme=dracula&hide_border=true" alt="Obruche's github stats" />
 </a>
 
 <a href="https://github.com/wilfredcloud">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredcloud&layout=compact&theme=dracula&hide_border=true" alt="Obruche's Top lans" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrucheoghene&layout=compact&theme=dracula&hide_border=true" alt="Obruche's Top lans" />
 </a>
 
 

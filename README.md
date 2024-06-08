@@ -2,7 +2,8 @@
 
 ## 👋 Hi there 
 
-I am a full-stack engineer with extensive hands-on experience developing and deploying robust applications using cutting-edge technologies - JavaScript, TypeScript, React, Next.js, Node.js, PHP, Python, and both SQL and NoSQL databases.
+I am a full-stack WebRTC engineer with extensive hands-on experience developing and deploying production-grade real time communication applications using WebRTC and JavaScript technologies. 
+My stacks are - JavaScript, TypeScript, React, Next.js, Node.js, PHP, Python, and both SQL and NoSQL databases.
 
 I am passionate about solving and providing efficient programming solutions to problems.
 

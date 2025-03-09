@@ -1,4 +1,5 @@
-![Profile Banner](https://github.com/obrucheoghene/obrucheoghene/assets/111436934/43b77961-13c5-4017-a416-90073b66db2a)
+![Profile Banner](https://github.com/user-attachments/assets/8e2a45c7-d4c2-4b29-a44a-ece48e1e843e)
+
 
 ## 👋 Hi there 
 
